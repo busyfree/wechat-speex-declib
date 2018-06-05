@@ -18,4 +18,4 @@
 
 2. `cd wechat-speex-declib && make && cp ./bin/speex_decode /usr/local/bin/speex2wav`
 
-3. speex2wav test.speex test.wav
+3. `speex2wav test.speex test.wav`
