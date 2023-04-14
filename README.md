@@ -1,5 +1,7 @@
 ### wechat speex voice transfer
 
+> [公众号 附录：高清语音素材获取接口](https://developers.weixin.qq.com/doc/offiaccount/Asset_Management/Get_temporary_materials.html)
+
 > convert speex to wav
 
 
